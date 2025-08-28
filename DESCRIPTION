@@ -1,0 +1,42 @@
+Package: DSTSOM
+Type: Package
+Title: Dynamic Spatio-Temporal Sequential Ordinal Models
+Version: 0.1.0
+Date: 2025-08-29
+Authors@R: 
+  c(person(c("Geoffrey", "R."), "Hosack", 
+           role = c("aut", "cre"), 
+           email = "geoff.hosack@csiro.au",
+           comment = c(ORCID = "0000-0002-6462-6817")),
+    person(c("Wen-Hsi"), "Yang",
+           role = c("aut"),
+           email = "wen-hsi.yang@data61.csiro.au",
+           comment =  c(ORCID = "0000-0001-8236-0082")),
+    person(c("Kyana", "N."), "Pike",
+           role = c("aut"),
+           email = "kyana.pike@csiro.au",
+           comment = c(ORCID = "0000-0001-9259-2899")))
+Copyright: Commonwealth Scientific and Industrial Research Organisation (CSIRO)
+  ABN 41 687 119 230
+Description: Space time models for ordinal analysis with application to weeds of
+  the Australian Capital Territory (ACT) using Dynamic Spatio-Temporal 
+  Sequential Ordinal Models. 
+License: GPL-3 + file LICENSE
+Imports:
+  fmesher,
+  INLA,
+  matrixStats,
+  rasterVis,
+  sf,
+  terra
+Suggests:
+  catdata,
+  knitr,
+  rms,
+  VGAM,
+  utils,
+  xtable
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+VignetteBuilder: utils
