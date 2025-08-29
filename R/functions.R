@@ -152,7 +152,7 @@ is_SpatialRandom_consistent <- function(inlaObj=NULL, Aproj=NULL,
 #' after summation of predicted marginal probabilities by ordinal level across
 #' all realisations of each site and year combination.
 #' @export
-predict_STordinal <- function(fm_inla = NULL,
+predict_DSTSOM <- function(fm_inla = NULL,
                               nSample = 50,
                               arrPred = NULL,
                               A_s_Pred = NULL,
