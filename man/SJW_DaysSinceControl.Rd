@@ -16,7 +16,7 @@ Five spatial layers represent days since the last St. John's wort control, refer
 {See inst/extdata/SJW_DaysSinceControl.tif in LICENSE.md.}
 }
 \usage{
-ff <- system.file("extdata/SJW_DaysSinceControl.tif",package="STordinal")
+ff <- system.file("extdata/SJW_DaysSinceControl.tif",package="DSTSOM")
 ALGcontrol <- terra::rast(ff)
 }
 \description{

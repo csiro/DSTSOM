@@ -16,7 +16,7 @@ Five spatial layers represent days since the last Chilean needle grass control, 
 {See inst/extdata/CNG_DaysSinceControl.tif in LICENSE.md.}
 }
 \usage{
-ff <- system.file("extdata/CNG_DaysSinceControl.tif",package="STordinal")
+ff <- system.file("extdata/CNG_DaysSinceControl.tif",package="DSTSOM")
 ALGcontrol <- terra::rast(ff)
 }
 \description{

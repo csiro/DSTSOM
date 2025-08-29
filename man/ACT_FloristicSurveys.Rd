@@ -17,14 +17,14 @@ A data frame of 1299 observations containing information on
     \code{6} is \eqn{>=}{>=} 50 \% cover  \eqn{<}{<} 75 \%; \code{6} is 75 \% cover
     and greater.}
   \item{nassella_trichotoma_0}{The modified Braun-Blanquet score for serrated tussock.}
-  \item{nassella_neesiana_0}{The modified Braun-Blanquet score for chilean needle grass.}
+  \item{nassella_neesiana_0}{The modified Braun-Blanquet score for Chilean needle grass.}
   \item{hypericum_perforatum_0}{The modified Braun-Blanquet score for  St. John's wort.}
   \item{ALG_daySinceControl}{The number of days since the last control of African lovegrass. This is derived based on the monitoring time information in the floristic data collected by the ACT monitoring team and the control time information in the control data collected by the ACT control team.}
   \item{ST_daySinceControl}{The number of days since the last control of serrated tussock.}
   \item{CNG_daySinceControl}{The number of days since the last control of Chilean needle grass.}
   \item{StJW_daySinceControl}{The number of days since the last control of St. John's wort.}
   \item{veg_structure}{Vegetation types}
-  \item{dist2road_track_trail}{Distance to a road, trail, or track in metres. The distance is calculated using based on the layer of roads, tracks and trails.}
+  \item{dist2road_track_trail}{Distance to a road, trail, or track in metres. The distance is calculated based on the layer of roads, tracks and trails.}
   \item{ForestNGrass}{Coarse vegetation types: forest, grassland and others. This coarse version is derived from veg_structure such that forest is a combination of exotic forest, open forest, planation, planting, and woodland; grassland is formed by exotic grassland, grassland, and grassland or secondary woodland. The detail is given in the vignette.}
 }
 }
@@ -32,7 +32,7 @@ A data frame of 1299 observations containing information on
 {See Data/ACT_FloristicSurveys.RData in LICENSE.md.}
 }
 \usage{
-data(ACT_FloristicSurveys, package = "STordinal")
+data(ACT_FloristicSurveys, package = "DSTSOM")
 }
 \description{
 The data table consists of floristics data from the ACT

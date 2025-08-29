@@ -13,7 +13,7 @@ Two spatial raster layers of a 100 m x 100 m resolution.
 {See inst/extdata/ACT_Covariates.tif in LICENSE.md.}
 }
 \usage{
-ff <- system.file("extdata/ACT_Covariates.tif",package="STordinal")
+ff <- system.file("extdata/ACT_Covariates.tif",package="DSTSOM")
 covars <- terra::rast(ff)
 }
 \description{

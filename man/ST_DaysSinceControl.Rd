@@ -16,7 +16,7 @@ Five spatial layers represent days since the last serrated tussock control, refe
 {See inst/extdata/ST_DaysSinceControl.tif in LICENSE.md.}
 }
 \usage{
-ff <- system.file("extdata/ST_DaysSinceControl.tif",package="STordinal")
+ff <- system.file("extdata/ST_DaysSinceControl.tif",package="DSTSOM")
 ALGcontrol <- terra::rast(ff)
 }
 \description{

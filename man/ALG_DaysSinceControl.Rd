@@ -16,7 +16,7 @@ Five spatial layers represent days since the last African lovegrass control, ref
 {See inst/extdata/ALG_DaysSinceControl.tif in LICENSE.md.}
 }
 \usage{
-ff <- system.file("extdata/ALG_DaysSinceControl.tif",package="STordinal")
+ff <- system.file("extdata/ALG_DaysSinceControl.tif",package="DSTSOM")
 ALGcontrol <- terra::rast(ff)
 }
 \description{
