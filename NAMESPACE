@@ -2,7 +2,7 @@
 
 export(dfBinary)
 export(is_SpatialRandom_consistent)
-export(predict_STordinal)
+export(predict_DSTSOM)
 importFrom(fmesher,fm_extensions)
 importFrom(fmesher,fm_mesh_2d)
 importFrom(graphics,par)
