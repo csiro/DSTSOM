@@ -12,7 +12,7 @@ An sf data frame with 1 feature and 0 fields.
 {See Data/ACT_Border.RData in LICENSE.md.}
 }
 \usage{
-data(ACT_Border, package = "STordinal")
+data(ACT_Border, package = "DSTSOM")
 }
 \description{
 A polygon of the Australian Capital Territory (ACT) border with the GDA2020 projection.  
