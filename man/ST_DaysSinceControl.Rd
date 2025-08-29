@@ -5,11 +5,11 @@
 \format{
 Five spatial layers represent days since the last serrated tussock control, referencing July 1st of a given year at a resolution of 100 m x 100 m, from 2019 to 2023.
 \describe{
-\item{DaySinceCon_Ref20190701}{days since last control even on 1 July 2019}
-\item{DaySinceCon_Ref20200701}{days since last control even on 1 July 2020}
-\item{DaySinceCon_Ref20210701}{days since last control even on 1 July 2021}
-\item{DaySinceCon_Ref20220701}{days since last control even on 1 July 2022}
-\item{DaySinceCon_Ref20230701}{days since last control even on 1 July 2023}
+\item{DaySinceCon_Ref20190701}{days since last control including on 1 July 2019}
+\item{DaySinceCon_Ref20200701}{days since last control including on 1 July 2020}
+\item{DaySinceCon_Ref20210701}{days since last control including on 1 July 2021}
+\item{DaySinceCon_Ref20220701}{days since last control including on 1 July 2022}
+\item{DaySinceCon_Ref20230701}{days since last control including on 1 July 2023}
 }
 }
 \source{
