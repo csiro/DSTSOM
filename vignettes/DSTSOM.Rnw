@@ -1,0 +1,13 @@
+\documentclass{article}
+
+\usepackage{pdfpages}
+
+%\VignetteIndexEntry{Spatio-Temporal Ordinal Analysis with INLA}
+%\VignetteKeywords{sequential ordinal model, continuation ratio model}
+%\VignettePackage{DSTSOM}
+
+\begin{document}
+
+\includepdf[pages=-, fitpaper=true]{ordinal_analysis.pdf}
+
+\end{document}
