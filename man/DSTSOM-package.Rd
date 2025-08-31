@@ -10,6 +10,13 @@ Space time models for ordinal analysis with application to weeds of the
 Australian Capital Territory (ACT) using Dynamic Spatio-Temporal Sequential 
 Ordinal Models.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/csiro-external/DSTSOM}
+}
+
+}
 \author{
 \strong{Maintainer}: Geoffrey R. Hosack \email{geoff.hosack@csiro.au} (\href{https://orcid.org/0000-0002-6462-6817}{ORCID})
 

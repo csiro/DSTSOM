@@ -15,9 +15,9 @@ Five spatial layers represent days since the last serrated tussock control, refe
 \source{
 {See inst/extdata/ST_DaysSinceControl.tif in LICENSE.md.}
 }
-\usage{
+\examples{
 ff <- system.file("extdata/ST_DaysSinceControl.tif",package="DSTSOM")
-ALGcontrol <- terra::rast(ff)
+STcontrol <- terra::rast(ff)
 }
 \description{
 A Geotiff (.tif) raster provides yearly spatial layers of days since control for serrated tussock in a 100 m x 100 m resolution in ACT. The spatial layers are derived based on the monitoring time information in the floristic data collected by the ACT monitoring team and the control time information in the control data collected by the ACT control team.  
