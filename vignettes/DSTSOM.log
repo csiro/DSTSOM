@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.6)  31 AUG 2025 19:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.6)  2 SEP 2025 11:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -217,7 +217,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page1 used on input line 61.
 
  <./ordinal_analysis.pdf{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdft
 ex.map}>]
-<ordinal_analysis.pdf, id=47, page=2, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=42, page=2, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 2>
 Package pdftex.def Info: ordinal_analysis.pdf , page2 used on input line 61.
@@ -235,7 +235,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page2 used on input line 61.
 [2
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=51, page=3, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=46, page=3, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 3>
 Package pdftex.def Info: ordinal_analysis.pdf , page3 used on input line 61.
@@ -253,7 +253,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page3 used on input line 61.
 [3
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=58, page=4, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=53, page=4, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 4>
 Package pdftex.def Info: ordinal_analysis.pdf , page4 used on input line 61.
@@ -271,7 +271,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page4 used on input line 61.
 [4
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=74, page=5, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=67, page=5, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 5>
 Package pdftex.def Info: ordinal_analysis.pdf , page5 used on input line 61.
@@ -289,7 +289,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page5 used on input line 61.
 [5
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=78, page=6, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=71, page=6, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 6>
 Package pdftex.def Info: ordinal_analysis.pdf , page6 used on input line 61.
@@ -307,7 +307,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page6 used on input line 61.
 [6
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=82, page=7, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=75, page=7, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 7>
 Package pdftex.def Info: ordinal_analysis.pdf , page7 used on input line 61.
@@ -325,7 +325,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page7 used on input line 61.
 [7
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=90, page=8, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=83, page=8, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 8>
 Package pdftex.def Info: ordinal_analysis.pdf , page8 used on input line 61.
@@ -343,7 +343,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page8 used on input line 61.
 [8
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=97, page=9, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=90, page=9, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 9>
 Package pdftex.def Info: ordinal_analysis.pdf , page9 used on input line 61.
@@ -361,7 +361,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page9 used on input line 61.
 [9
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=101, page=10, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=94, page=10, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 10>
 Package pdftex.def Info: ordinal_analysis.pdf , page10 used on input line 61.
@@ -379,7 +379,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page10 used on input line 61.
 [10
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=108, page=11, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=101, page=11, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 11>
 Package pdftex.def Info: ordinal_analysis.pdf , page11 used on input line 61.
@@ -397,7 +397,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page11 used on input line 61.
 [11
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=112, page=12, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=105, page=12, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 12>
 Package pdftex.def Info: ordinal_analysis.pdf , page12 used on input line 61.
@@ -415,7 +415,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page12 used on input line 61.
 [12
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=122, page=13, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=114, page=13, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 13>
 Package pdftex.def Info: ordinal_analysis.pdf , page13 used on input line 61.
@@ -433,7 +433,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page13 used on input line 61.
 [13
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=133, page=14, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=124, page=14, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 14>
 Package pdftex.def Info: ordinal_analysis.pdf , page14 used on input line 61.
@@ -451,7 +451,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page14 used on input line 61.
 [14
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=137, page=15, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=128, page=15, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 15>
 Package pdftex.def Info: ordinal_analysis.pdf , page15 used on input line 61.
@@ -469,7 +469,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page15 used on input line 61.
 [15
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=141, page=16, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=132, page=16, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 16>
 Package pdftex.def Info: ordinal_analysis.pdf , page16 used on input line 61.
@@ -487,7 +487,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page16 used on input line 61.
 [16
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=148, page=17, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=139, page=17, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 17>
 Package pdftex.def Info: ordinal_analysis.pdf , page17 used on input line 61.
@@ -505,7 +505,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page17 used on input line 61.
 [17
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=152, page=18, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=143, page=18, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 18>
 Package pdftex.def Info: ordinal_analysis.pdf , page18 used on input line 61.
@@ -523,7 +523,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page18 used on input line 61.
 [18
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=156, page=19, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=147, page=19, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 19>
 Package pdftex.def Info: ordinal_analysis.pdf , page19 used on input line 61.
@@ -541,7 +541,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page19 used on input line 61.
 [19
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=161, page=20, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=152, page=20, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 20>
 Package pdftex.def Info: ordinal_analysis.pdf , page20 used on input line 61.
@@ -559,7 +559,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page20 used on input line 61.
 [20
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=165, page=21, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=156, page=21, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 21>
 Package pdftex.def Info: ordinal_analysis.pdf , page21 used on input line 61.
@@ -577,7 +577,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page21 used on input line 61.
 [21
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=169, page=22, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=160, page=22, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 22>
 Package pdftex.def Info: ordinal_analysis.pdf , page22 used on input line 61.
@@ -595,7 +595,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page22 used on input line 61.
 [22
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=173, page=23, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=164, page=23, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 23>
 Package pdftex.def Info: ordinal_analysis.pdf , page23 used on input line 61.
@@ -613,7 +613,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page23 used on input line 61.
 [23
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=177, page=24, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=168, page=24, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 24>
 Package pdftex.def Info: ordinal_analysis.pdf , page24 used on input line 61.
@@ -631,7 +631,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page24 used on input line 61.
 [24
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=181, page=25, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=172, page=25, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 25>
 Package pdftex.def Info: ordinal_analysis.pdf , page25 used on input line 61.
@@ -649,7 +649,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page25 used on input line 61.
 [25
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=189, page=26, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=180, page=26, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 26>
 Package pdftex.def Info: ordinal_analysis.pdf , page26 used on input line 61.
@@ -667,7 +667,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page26 used on input line 61.
 [26
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=193, page=27, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=184, page=27, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 27>
 Package pdftex.def Info: ordinal_analysis.pdf , page27 used on input line 61.
@@ -685,7 +685,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page27 used on input line 61.
 [27
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=197, page=28, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=188, page=28, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 28>
 Package pdftex.def Info: ordinal_analysis.pdf , page28 used on input line 61.
@@ -703,7 +703,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page28 used on input line 61.
 [28
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=201, page=29, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=192, page=29, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 29>
 Package pdftex.def Info: ordinal_analysis.pdf , page29 used on input line 61.
@@ -721,7 +721,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page29 used on input line 61.
 [29
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=205, page=30, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=196, page=30, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 30>
 Package pdftex.def Info: ordinal_analysis.pdf , page30 used on input line 61.
@@ -739,7 +739,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page30 used on input line 61.
 [30
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=209, page=31, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=200, page=31, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 31>
 Package pdftex.def Info: ordinal_analysis.pdf , page31 used on input line 61.
@@ -757,7 +757,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page31 used on input line 61.
 [31
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=214, page=32, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=205, page=32, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 32>
 Package pdftex.def Info: ordinal_analysis.pdf , page32 used on input line 61.
@@ -775,7 +775,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page32 used on input line 61.
 [32
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=219, page=33, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=209, page=33, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 33>
 Package pdftex.def Info: ordinal_analysis.pdf , page33 used on input line 61.
@@ -793,7 +793,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page33 used on input line 61.
 [33
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=223, page=34, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=213, page=34, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 34>
 Package pdftex.def Info: ordinal_analysis.pdf , page34 used on input line 61.
@@ -811,7 +811,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page34 used on input line 61.
 [34
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=227, page=35, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=217, page=35, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 35>
 Package pdftex.def Info: ordinal_analysis.pdf , page35 used on input line 61.
@@ -829,7 +829,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page35 used on input line 61.
 [35
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=232, page=36, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=222, page=36, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 36>
 Package pdftex.def Info: ordinal_analysis.pdf , page36 used on input line 61.
@@ -847,7 +847,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page36 used on input line 61.
 [36
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=236, page=37, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=226, page=37, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 37>
 Package pdftex.def Info: ordinal_analysis.pdf , page37 used on input line 61.
@@ -865,7 +865,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page37 used on input line 61.
 [37
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=242, page=38, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=233, page=38, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 38>
 Package pdftex.def Info: ordinal_analysis.pdf , page38 used on input line 61.
@@ -883,7 +883,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page38 used on input line 61.
 [38
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=247, page=39, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=238, page=39, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 39>
 Package pdftex.def Info: ordinal_analysis.pdf , page39 used on input line 61.
@@ -901,7 +901,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page39 used on input line 61.
 [39
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=252, page=40, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=243, page=40, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 40>
 Package pdftex.def Info: ordinal_analysis.pdf , page40 used on input line 61.
@@ -919,7 +919,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page40 used on input line 61.
 [40
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=256, page=41, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=247, page=41, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 41>
 Package pdftex.def Info: ordinal_analysis.pdf , page41 used on input line 61.
@@ -937,7 +937,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page41 used on input line 61.
 [41
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=260, page=42, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=251, page=42, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 42>
 Package pdftex.def Info: ordinal_analysis.pdf , page42 used on input line 61.
@@ -955,7 +955,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page42 used on input line 61.
 [42
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=264, page=43, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=255, page=43, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 43>
 Package pdftex.def Info: ordinal_analysis.pdf , page43 used on input line 61.
@@ -973,7 +973,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page43 used on input line 61.
 [43
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=269, page=44, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=260, page=44, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 44>
 Package pdftex.def Info: ordinal_analysis.pdf , page44 used on input line 61.
@@ -991,7 +991,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page44 used on input line 61.
 [44
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=273, page=45, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=264, page=45, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 45>
 Package pdftex.def Info: ordinal_analysis.pdf , page45 used on input line 61.
@@ -1009,7 +1009,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page45 used on input line 61.
 [45
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=277, page=46, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=268, page=46, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 46>
 Package pdftex.def Info: ordinal_analysis.pdf , page46 used on input line 61.
@@ -1027,7 +1027,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page46 used on input line 61.
 [46
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=281, page=47, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=272, page=47, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 47>
 Package pdftex.def Info: ordinal_analysis.pdf , page47 used on input line 61.
@@ -1045,7 +1045,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page47 used on input line 61.
 [47
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=285, page=48, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=276, page=48, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 48>
 Package pdftex.def Info: ordinal_analysis.pdf , page48 used on input line 61.
@@ -1063,7 +1063,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page48 used on input line 61.
 [48
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=290, page=49, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=281, page=49, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 49>
 Package pdftex.def Info: ordinal_analysis.pdf , page49 used on input line 61.
@@ -1081,7 +1081,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page49 used on input line 61.
 [49
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=295, page=50, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=286, page=50, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 50>
 Package pdftex.def Info: ordinal_analysis.pdf , page50 used on input line 61.
@@ -1099,7 +1099,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page50 used on input line 61.
 [50
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=300, page=51, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=291, page=51, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 51>
 Package pdftex.def Info: ordinal_analysis.pdf , page51 used on input line 61.
@@ -1117,7 +1117,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page51 used on input line 61.
 [51
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=305, page=52, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=296, page=52, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 52>
 Package pdftex.def Info: ordinal_analysis.pdf , page52 used on input line 61.
@@ -1135,7 +1135,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page52 used on input line 61.
 [52
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=310, page=53, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=301, page=53, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 53>
 Package pdftex.def Info: ordinal_analysis.pdf , page53 used on input line 61.
@@ -1153,7 +1153,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page53 used on input line 61.
 [53
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=314, page=54, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=305, page=54, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 54>
 Package pdftex.def Info: ordinal_analysis.pdf , page54 used on input line 61.
@@ -1171,7 +1171,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page54 used on input line 61.
 [54
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=318, page=55, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=309, page=55, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 55>
 Package pdftex.def Info: ordinal_analysis.pdf , page55 used on input line 61.
@@ -1189,7 +1189,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page55 used on input line 61.
 [55
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=323, page=56, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=314, page=56, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 56>
 Package pdftex.def Info: ordinal_analysis.pdf , page56 used on input line 61.
@@ -1207,7 +1207,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page56 used on input line 61.
 [56
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=327, page=57, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=318, page=57, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 57>
 Package pdftex.def Info: ordinal_analysis.pdf , page57 used on input line 61.
@@ -1225,7 +1225,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page57 used on input line 61.
 [57
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=331, page=58, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=322, page=58, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 58>
 Package pdftex.def Info: ordinal_analysis.pdf , page58 used on input line 61.
@@ -1243,7 +1243,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page58 used on input line 61.
 [58
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=335, page=59, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=326, page=59, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 59>
 Package pdftex.def Info: ordinal_analysis.pdf , page59 used on input line 61.
@@ -1261,7 +1261,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page59 used on input line 61.
 [59
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=339, page=60, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=330, page=60, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 60>
 Package pdftex.def Info: ordinal_analysis.pdf , page60 used on input line 61.
@@ -1279,7 +1279,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page60 used on input line 61.
 [60
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=343, page=61, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=334, page=61, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 61>
 Package pdftex.def Info: ordinal_analysis.pdf , page61 used on input line 61.
@@ -1297,7 +1297,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page61 used on input line 61.
 [61
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=349, page=62, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=340, page=62, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 62>
 Package pdftex.def Info: ordinal_analysis.pdf , page62 used on input line 61.
@@ -1315,7 +1315,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page62 used on input line 61.
 [62
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=353, page=63, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=344, page=63, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 63>
 Package pdftex.def Info: ordinal_analysis.pdf , page63 used on input line 61.
@@ -1333,7 +1333,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page63 used on input line 61.
 [63
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=358, page=64, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=349, page=64, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 64>
 Package pdftex.def Info: ordinal_analysis.pdf , page64 used on input line 61.
@@ -1351,7 +1351,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page64 used on input line 61.
 [64
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=363, page=65, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=354, page=65, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 65>
 Package pdftex.def Info: ordinal_analysis.pdf , page65 used on input line 61.
@@ -1369,7 +1369,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page65 used on input line 61.
 [65
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=368, page=66, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=359, page=66, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 66>
 Package pdftex.def Info: ordinal_analysis.pdf , page66 used on input line 61.
@@ -1387,7 +1387,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page66 used on input line 61.
 [66
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=372, page=67, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=363, page=67, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 67>
 Package pdftex.def Info: ordinal_analysis.pdf , page67 used on input line 61.
@@ -1405,7 +1405,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page67 used on input line 61.
 [67
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=377, page=68, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=368, page=68, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 68>
 Package pdftex.def Info: ordinal_analysis.pdf , page68 used on input line 61.
@@ -1423,7 +1423,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page68 used on input line 61.
 [68
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=381, page=69, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=372, page=69, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 69>
 Package pdftex.def Info: ordinal_analysis.pdf , page69 used on input line 61.
@@ -1441,7 +1441,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page69 used on input line 61.
 [69
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=385, page=70, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=376, page=70, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 70>
 Package pdftex.def Info: ordinal_analysis.pdf , page70 used on input line 61.
@@ -1459,7 +1459,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page70 used on input line 61.
 [70
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=389, page=71, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=380, page=71, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 71>
 Package pdftex.def Info: ordinal_analysis.pdf , page71 used on input line 61.
@@ -1477,7 +1477,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page71 used on input line 61.
 [71
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=393, page=72, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=384, page=72, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 72>
 Package pdftex.def Info: ordinal_analysis.pdf , page72 used on input line 61.
@@ -1495,7 +1495,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page72 used on input line 61.
 [72
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=397, page=73, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=388, page=73, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 73>
 Package pdftex.def Info: ordinal_analysis.pdf , page73 used on input line 61.
@@ -1513,7 +1513,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page73 used on input line 61.
 [73
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=402, page=74, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=393, page=74, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 74>
 Package pdftex.def Info: ordinal_analysis.pdf , page74 used on input line 61.
@@ -1531,7 +1531,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page74 used on input line 61.
 [74
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=407, page=75, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=398, page=75, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 75>
 Package pdftex.def Info: ordinal_analysis.pdf , page75 used on input line 61.
@@ -1549,7 +1549,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page75 used on input line 61.
 [75
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=411, page=76, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=402, page=76, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 76>
 Package pdftex.def Info: ordinal_analysis.pdf , page76 used on input line 61.
@@ -1567,7 +1567,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page76 used on input line 61.
 [76
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=416, page=77, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=407, page=77, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 77>
 Package pdftex.def Info: ordinal_analysis.pdf , page77 used on input line 61.
@@ -1585,7 +1585,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page77 used on input line 61.
 [77
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=421, page=78, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=412, page=78, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 78>
 Package pdftex.def Info: ordinal_analysis.pdf , page78 used on input line 61.
@@ -1603,7 +1603,7 @@ Package pdftex.def Info: ordinal_analysis.pdf , page78 used on input line 61.
 [78
 
  <./ordinal_analysis.pdf>]
-<ordinal_analysis.pdf, id=426, page=79, 614.295pt x 794.97pt>
+<ordinal_analysis.pdf, id=417, page=79, 614.295pt x 794.97pt>
 File: ordinal_analysis.pdf Graphic file (type pdf)
 <use ordinal_analysis.pdf, page 79>
 Package pdftex.def Info: ordinal_analysis.pdf , page79 used on input line 61.
@@ -1643,10 +1643,10 @@ lic/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c
 :/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on DSTSOM.pdf (79 pages, 2040290 bytes).
+Output written on DSTSOM.pdf (79 pages, 1446423 bytes).
 PDF statistics:
- 448 PDF objects out of 1000 (max. 8388607)
- 234 compressed objects within 3 object streams
+ 439 PDF objects out of 1000 (max. 8388607)
+ 225 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  411 words of extra memory for PDF output out of 10000 (max. 10000000)
 

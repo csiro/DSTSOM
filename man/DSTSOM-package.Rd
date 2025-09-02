@@ -13,7 +13,7 @@ Ordinal Models.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/csiro-external/DSTSOM}
+  \item \url{https://github.com/csiro/DSTSOM}
 }
 
 }

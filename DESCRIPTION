@@ -36,7 +36,7 @@ Suggests:
   VGAM,
   utils,
   xtable
-URL: https://github.com/csiro-external/DSTSOM
+URL: https://github.com/csiro/DSTSOM
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2
