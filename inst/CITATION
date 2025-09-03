@@ -1,2 +1,22 @@
 ## R package reference generated from DESCRIPTION metadata
 citation(auto = meta)
+
+# article
+bibentry(
+  bibtype = "article",
+  author  = c(person(c("Geoffrey", "R."), "Hosack"), 
+    person(c("Wen-Hsi"), "Yang"),
+    person(c("Kyana", "N."), "Pike"),
+    person(c("Luke", "S."), "O\'Loughlin"),
+    person(c("Emma"), "Cook"),
+    person(c("Brett"), "Howland"),
+    person(c("Emily"), "Sutcliffe"),
+    person(c("Richard", "N.", "C."), "Milner"),
+    person(c("Ben"), "Gooden"),
+    person(c("Jens", "G."), "Froese")),
+  journal = "arXiv",
+  title = "Dynamic Spatio-Temporal Sequential Ordinal Models: Application to Invasive Weeds",
+  year = "2025",
+  note = "arXiv:2509.01976 [stat.AP]",
+  url = "https://doi.org/10.48550/arXiv.2509.01976"
+)

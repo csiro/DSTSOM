@@ -6,9 +6,11 @@
 \alias{DSTSOM-package}
 \title{DSTSOM: Dynamic Spatio-Temporal Sequential Ordinal Models}
 \description{
-Space time models for ordinal analysis with application to weeds of the 
-Australian Capital Territory (ACT) using Dynamic Spatio-Temporal Sequential 
-Ordinal Models.
+Space time models for ordinal analysis with application to weeds of
+the Australian Capital Territory (ACT) using Dynamic Spatio-Temporal 
+Sequential Ordinal Models. This package provides Supplementary Information to
+<https://doi.org/10.48550/arXiv.2509.01976> in the vignette, see file 
+vignettes/DSTSOM.pdf.
 }
 \seealso{
 Useful links:
